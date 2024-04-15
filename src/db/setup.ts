@@ -6,11 +6,11 @@ import * as schema from './schema'
 // }
 
 const connection = mysql.createPool({
-    host: 'drizzletest-hecker-faaa.a.aivencloud.com',
-    password: 'AVNS_XZIiuN8EkkIImFg9IRJ',
-    user: 'avnadmin',
-    port: 21205,
-    database: 'defaultdb',
+    host: '',
+    password: '',
+    user: '',
+    port: ,
+    database: '',
     // ssl: 'required'
 })
 
